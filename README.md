@@ -100,19 +100,19 @@ Net Salary: 5490.00
 
 ### Employee Registration
 
-![Employee Registration](employee-registration.png.png)
+Images/employee-registration.png.png
 
 ---
 
 ### Employee List
 
-![Employee List](employee-list.png.png)
+Images/employee-list.png.png
 
 ---
 
 ### Payroll Processing
 
-![Payroll Processing](payroll-processing.png.png)
+Images/payroll-processing.png.png
 
 ## Author
 
