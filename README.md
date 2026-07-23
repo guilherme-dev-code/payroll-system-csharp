@@ -96,6 +96,23 @@ Tax Salary: 610.00
 
 Net Salary: 5490.00
 ```
+## 📸 Screenshots
+
+### Employee Registration
+
+![Employee Registration](employee-registration.png.png)
+
+---
+
+### Employee List
+
+![Employee List](employee-list.png.png)
+
+---
+
+### Payroll Processing
+
+![Payroll Processing](payroll-processing.png.png)
 
 ## Author
 
