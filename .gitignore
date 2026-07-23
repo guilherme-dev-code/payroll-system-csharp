@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+
+# Visual Studio Solution User Files
+*.suo
+
+# Solution cache
+*.user
+
+# Build
+bin/
+obj/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
