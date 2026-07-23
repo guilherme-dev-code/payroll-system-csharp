@@ -100,7 +100,7 @@ Net Salary: 5490.00
 
 ### Employee Registration
 
-Images/employee-registration.png.png
+![Employee Registrationation.png.png
 
 ---
 
